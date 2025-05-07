@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Iza
+- 👀 I’m interested in **Data Analysis, Business Intelligence, and Data Visualization**
+- 🌱 I’m currently learning **SQL, Python, Power BI, and Statistical Analysis**
+- 💞️ I’m looking to collaborate on data-driven projects that transform insights into strategic actions
+- ⚡ Fun fact: I started my career as **Social Media Analyst**, and now I’m merging **creativity** with **data** to tell **impactful stories**!
