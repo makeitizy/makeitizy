@@ -1,8 +1,12 @@
 ## 👋 Hi, I’m **Izabelly**, but call me **Iza** 😁
-- 👀 I’m interested in **Data Analysis**, **Business Intelligence**, and **Data Visualization**
-- 🌱 I’m currently learning **SQL**, **Python**, **Power BI**, and **Statistical Analysis**
-- 💞️ I’m looking to **collaborate** on data-driven projects that t**ransform insights into strategic actions**
-- ⚡ Fun fact: I started my career as **Social Media Analyst**, and now I’m merging **creativity** with **data** to tell **impactful stories**!
+- 👀 Interested in **Data Analysis**, **Business Intelligence**, and **Data Visualization**
+- 🌱 Currently learning **SQL**, **Python**, **Power BI**, and **Statistical Analysis**
+- 🤝 Looking to **collaborate** on data-driven projects that t**ransform insights into strategic actions**
+## About me:
+- I'm 28 years old, from Sao Paulo 🇧🇷
+- I’m passionate about technology, video games, music and pets 🐈‍⬛
+- Graduated in Graphic Design, with 4+ years of experience in Marketing and Creative Projects 🖌️
+- Currently transitioning to Data Analysis, focused on SQL, Python, Power BI, and Statistical Analysis 📈
  
 ## **Reach me:**
 <div> 
